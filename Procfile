@@ -1,1 +1,1 @@
-web: bin/hubot --adapter hipchat --name mate
+web: bin/hubot --adapter slack
